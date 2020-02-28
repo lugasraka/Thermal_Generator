@@ -1,9 +1,9 @@
 # Thermal_Generator
 First Official Version for Thermal_Generator. Developed and submitted as part of our final project at Ecole polytechnique, France.
-MIE609 : A Collective Management Project: https://synapses.polytechnique.fr/catalogue/2018-2019/ue/486/MIE669-designing-projects-and-managing-operations-in-the-energy-industry
+MIE609 : A Collective Management Project: https://synapses.polytechnique.fr/catalogue/2018-2019/ue/560/MIE609-a-collective-management-project
 
 ## Title of project
-Carbon pricing mechanism: Case of UK and Germany. Slides are available in the same folder (
+Carbon pricing mechanism: Case of UK and Germany. Slides are available in the same folder ('Final Presentation UK Germany')
 
 ## General Description 
 `Thermal_Generator` is a package specifically designed to simulate the operational plan (dispatch profile) for thermal generators (most notably coal-fired, gas-fired and combined cycle gas turbine generators)
